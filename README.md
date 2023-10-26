@@ -2,6 +2,10 @@
 
 IT-Systems-Egnineer [@Pegasus-IT-GmbH](https://github.com/Pegasus-IT-GmbH)
 
+Private: [Website](https://soo.st/)
+
+
+
 <!--
 **peg-svs/peg-svs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
