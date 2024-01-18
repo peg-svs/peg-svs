@@ -2,7 +2,7 @@
 
 IT-Systems-Egnineer [@Pegasus-IT-GmbH](https://github.com/Pegasus-IT-GmbH)
 
-Private: [Website](https://soo.st/)
+[Private Website](https://soo.st/)
 
 
 
